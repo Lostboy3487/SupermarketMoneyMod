@@ -5,7 +5,7 @@ A BepInEx mod for Supermarket Together.
 
 Need help installing the mod?
 
-👉 [Watch the installation tutorial on YouTube](https://youtu.be/Ww8cAbQgtwg)
+👉 [Watch the installation tutorial on YouTube](https://youtu.be/oiTntkVojTY)
 ## Features
 
 - Money control
