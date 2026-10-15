@@ -25,3 +25,5 @@ Need help installing the mod?
 Designed for use in your own/private multiplayer lobbies.
 
 This is an unofficial community mod and is not affiliated with the developers of Supermarket Together.
+
+If you’d like to try out my mod, just click on this link here. → https://kraatz5.gumroad.com/l/oqvsq?wanted=true
